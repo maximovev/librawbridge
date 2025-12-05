@@ -1,0 +1,9 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/source/dll/librawbridge/.vs/librawbridge/FileContentIndex
+/source/dll/librawbridge/.vs/librawbridge/v17/ipch
+/source/dll/librawbridge/librawbridge/x64/Debug
+/source/dll/librawbridge/librawbridge/librawbridge/x64/Debug
+/source/dll/librawbridge/.vs/librawbridge/v17
