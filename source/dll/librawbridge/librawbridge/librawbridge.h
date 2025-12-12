@@ -41,8 +41,8 @@ enum
 
 __DLL int				OpenRAWFile(unsigned char filename);
 
-__DLL int				GetRAWWidth();
-__DLL int				GetRAWHeight();
+__DLL unsigned short	GetRAWWidth();
+__DLL unsigned short	GetRAWHeight();
 __DLL unsigned short	GetPixelValue(int x, int y);
 __DLL char				GetPixelColor(int x, int y);
 
